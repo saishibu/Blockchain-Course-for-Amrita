@@ -9,4 +9,4 @@ Module 2 (Lab/Hands-on): Smart Contracts basics, Setup Ethereum virtual machines
 
 Module 3 (Application Development/Term Project): Students choose an area and propose blockchain-based applications. Applications are further enhanced and possible PoC deployment. 
 
-### Note: This course is based on the Etheruem Platform.
+### Note: This course is based on the Etheruem Platform ![eth](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;.
