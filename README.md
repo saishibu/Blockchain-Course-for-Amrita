@@ -14,9 +14,8 @@ Module 3 (Application Development/Term Project): Students choose an area and pro
 ![eth](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp;
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)&nbsp;
-![truffle](https://trufflesuite.com/assets/logo.png?&style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+<img src="https://trufflesuite.com/img/truffle-logo-dark.svg" width="20">&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-
 
 
 
