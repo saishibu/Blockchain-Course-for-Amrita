@@ -2,4 +2,5 @@
 
 a = "Hello B"
 hashA = hash(a)
-print(hashA)
+print("A's message to B: " + a)
+print("Encrypted Message: "+str(hashA))
