@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Introduction to Blockchain and Distributed Ledger Technology is offered to S3 MTech WNA Program. This course covers the basics of blockchain technology and introduces the solidity programming language. This course also enables the students to develop blockchain smart contracts and implement them for applications they identify.
 
 ## Syllabus
 
