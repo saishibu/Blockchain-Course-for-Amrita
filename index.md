@@ -1,37 +1,29 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/saishibu/Blockchain-Course-for-Amrita-21WN727/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Syllabus
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Module 1 (Theory): Introduction to Blockchain technologies, types of blockchain networks (Private, Public & Hybrid), State Machine Design, Overview of Bitcoin, Ethereum, Hyperledger, IOTA DLT. Entities in Blockchain, Consensus Mechanism and algorithms, Smart Contracts, Cryptocurrency, Mining and Ledger. Applications of Blockchain in various verticals such as DeFi, Healthcare, Smart Energy, IoT, Supply chain, and NFTs. The future of Blockchain.
+ 
+Module 2 (Lab/Hands-on): Smart Contracts basics, Setup Ethereum virtual machines (EVM), Introduction to solidity language and Remix IDE. Developing smart contracts and deploying on EVM. Hands-on applications such as eVoting, Healthcare records, etc.
 
-### Markdown
+Module 3 (Application Development/Term Project): Students choose an area and propose blockchain-based applications. Applications are further enhanced and possible PoC deployment. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Note: This course introduces the following tools <br />
 
-```markdown
-Syntax highlighted code block
+![eth](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)&nbsp; <br />
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp; <br />
+![solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)&nbsp; <br />
+<img src="https://trufflesuite.com/img/truffle-logo.svg" width="50">&nbsp;  <br />
+<img src="https://trufflesuite.com/img/ganache-logo-dark.svg" width="50">&nbsp; <br />
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Slides
+Slide 1 - [Introduction](https://docs.google.com/presentation/d/1NxnD_vIDmQmAD2f1pCnmJacrrvp4B9wCeRoA74F-_E8/edit?usp=sharing)&nbsp; </br>
+Slide 2 - [Introduction to Solidity](https://docs.google.com/presentation/d/1Suk3AM1lGCCZhrzDKJVJYYz_J-Zcpwrt0AFM2u1fVvY/edit?usp=sharing)&nbsp; </br>
+Slide 3 - [Introduction to Web3 Python Library](https://docs.google.com/presentation/d/1REA-vRzJ0pu-FPHVAtypX993zgQTemeTch3GDmM8dYE/edit?usp=sharing)&nbsp; </br>
 
-1. Numbered
-2. List
+## References for Hands-On
+[Visit this link](https://github.com/saishibu/Blockchain-Course-for-Amrita-21WN727/tree/main/Hands-on) 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saishibu/Blockchain-Course-for-Amrita-21WN727/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+© Sai Shibu
