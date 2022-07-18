@@ -1,11 +1,12 @@
 #Web3 and Smart Contract Interaction to transfer funds
 
 from web3 import Web3, HTTPProvider
+import json
 
 # truffle development blockchain address
 blockchain_address = 'http://127.0.0.1:9545'
 # Client instance to interact with the blockchain
-w3 = Web3(HTTPProvider(blockchain_address))
+web3 = Web3(HTTPProvider(blockchain_address))
 
 accounts=web3.eth._get_accounts()
 fromAddress = accounts[0]
@@ -27,13 +28,13 @@ contract = web3.eth.contract(address=deployed_contract_address, abi=contract_abi
 
 print("Old Balances")
 
-print("Balance of 'From' Address: " +str(web3.fromWei(web3.eth.getBalance(fromAddress,'ether'))))
-print("Balance of 'To' Address: " +str(web3.fromWei(web3.eth.getBalance(toAddress,'ether'))))
+print("Balance of 'From' Address: " +str(web3.fromWei(web3.eth.getBalance(fromAddress),'ether')))
+print("Balance of 'To' Address: " +str(web3.fromWei(web3.eth.getBalance(toAddress),'ether')))
 
 payment=contract.functions.sendViaTransfer(toAddress).transact({"from":fromAddress,"value":web3.toWei(2,'ether')})
 print(payment)
 
 print("New Balances")
 
-print("Balance of 'From' Address: " +str(web3.fromWei(web3.eth.getBalance(fromAddress,'ether'))))
-print("Balance of 'To' Address: " +str(web3.fromWei(web3.eth.getBalance(toAddress,'ether'))))
+print("Balance of 'From' Address: " +str(web3.fromWei(web3.eth.getBalance(fromAddress),'ether')))
+print("Balance of 'To' Address: " +str(web3.fromWei(web3.eth.getBalance(toAddress),'ether')))
